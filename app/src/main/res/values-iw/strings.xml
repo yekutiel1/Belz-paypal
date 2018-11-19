@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מרכז מוסודות בעלזא</string>
+    <string name="enter_sum">הכנס סכום</string>
+    <string name="enter_your_email_address">הכנס את כתובת המייל</string>
+    <string name="sent_an_receipt_to_email">שלח קבלה למייל</string>
+    <string name="cancel">ביטול</string>
+    <string name="invalid">לא חוקי</string>
+    <string name="the_mail_sent">המייל נשלח</string>
+    <string name="donate_now">תרום עכשיו</string>
+    <string name="enter_your_email_to_get_a_receipt">הכנס את המייל לקבלת קבלה</string>
+</resources>

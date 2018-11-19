@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">מרכז מוסודות בעלזא</string>
+    <string name="enter_sum">Enter sum</string>
+    <string name="enter_your_email_address">Enter your Email address</string>
+    <string name="sent_an_receipt_to_email">sent an receipt to Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid">Invalid</string>
+    <string name="the_mail_sent">The mail sent</string>
+    <string name="donate_now">Donate now</string>
+    <string name="enter_your_email_to_get_a_receipt">Enter your Email To get a receipt</string>
+</resources>
